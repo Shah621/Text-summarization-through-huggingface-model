@@ -68,14 +68,6 @@ source venv/bin/activate
 pip install -r requirements.txt
 ```
 
-If you don’t have a `requirements.txt`, create one with the following:
-
-```txt
-streamlit
-transformers
-torch
-```
-
 ### 4. Run the app
 
 ```bash
